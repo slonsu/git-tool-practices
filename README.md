@@ -1,1 +1,1 @@
-# git-tool-practices
+# git tool practices
